@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: SRI Student Network
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Student network at SRI
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: UToronto
+  url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: We are a group of graduate students interested in making life better at SRI for other graduate students!
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Student advocacy
+- Coffee
+- More coffee
 
 # Education to show in About widget
 education:
@@ -64,7 +64,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sri.studentnetwork@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
