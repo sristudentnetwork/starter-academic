@@ -6,15 +6,15 @@ title: SRI Student Network
 superuser: true
 
 # Role/position/tagline
-role: Student network at SRI
+role: Where learners connect
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UToronto
+- name: University of Toronto
   url: https://www.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: The SRI Student Network (SSN) is a graduate student-run group at Sunnybrook whose mission is to encourage and foster relationships amongst the greater graduate student population at Sunnybrook.
+bio: The SRI Student Network (SSN) is a graduate student-run group whose mission is to encourage and foster relationships amongst the SRI learner community.
 
 # Interests to show in About widget
 interests:
@@ -25,14 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Medical Biophysics
-    institution: University of Toronto
+  - course: Biochemistry
   - course: Immunology
-    institution: University of Toronto
+  - course: Institute of Medical Science
+  - course: Medical Biophysics
   - course: Laboratory Medicine and Pathobiology
-    institution: University of Toronto
+  - course: Pharmaceutical Sciences
   - course: Pharmacology and Toxicology
-    institution: University of Toronto
  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
