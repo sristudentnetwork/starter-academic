@@ -19,7 +19,7 @@ header:
 
 ## Fitness Resources
 
-[SSN and MBP Virtual Yoga Series](https://zoom.us/j/7374829458?pwd=Z085TXBQZGE2WW85R3JPVkVuMWtIZz09): Tuesdays at 7pm. Zoom ID 737 482 9458, passcode 342797
+SSN and MBP Virtual Yoga Series: Tuesdays at 7pm. Zoom ID 737 482 9458, passcode 342797
 
 [SSN Strava Running Group](https://www.strava.com/clubs/862900)
 
@@ -33,7 +33,7 @@ header:
 
 ## Mental Health Resources 
 
-[SSN's 30-Day Wellness Challenge Calendar](https://drive.google.com/drive/folders/1-0e9qyTWQFxJcHNnmF714rxLshtoctr6)
+[SSN's 30-Day Wellness Challenge Calendar](https://drive.google.com/file/d/1kxIFjAi9Sf8_iyw_VjVs_4H7ufUxrwId/view?usp=sharing)
 
 [My SSP](https://studentlife.utoronto.ca/service/myssp/): Free 24/7 counselling service for all U of T students, short or long term. 
 
