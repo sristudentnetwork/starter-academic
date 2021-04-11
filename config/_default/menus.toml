@@ -11,12 +11,12 @@
 [[main]]
   name = "The Takeaway Archive"
   url = "#posts"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Resources"
   url = "#resources"
-  weight = 30
+  weight = 20
 
 # [[main]]
 #  name = "Projects"
@@ -36,7 +36,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 20
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
