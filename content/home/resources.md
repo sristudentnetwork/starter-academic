@@ -1,6 +1,6 @@
 ---
 title: SRI Student Resources
-summary: Some helpful links and organizations for students at SRI
+summary: Helpful links and organizations for students at SRI
 date: "2021-04-11T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
@@ -14,4 +14,16 @@ header:
   image: ""
 ---
 
-INSERT RESOURCES HERE
+subtitle: **Fitness Resources** 
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
+
+subtitle: **Mental Health Resources**
