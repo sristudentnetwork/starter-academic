@@ -17,20 +17,6 @@ header:
   image: ""
 ---
 
-## Fitness Resources
-
-SSN and MBP Virtual Yoga Series: Tuesdays at 7pm. Zoom ID 737 482 9458, passcode 342797
-
-[SSN Strava Running Group](https://www.strava.com/clubs/862900)
-
-[Hart House](https://harthouse.ca/fitness) and [Sports & Rec at U of T through KPE](https://kpe.utoronto.ca/sport-rec-u-t): Both Hart House & KPE offer virtual exercises classes to students free-of-charge. When you sign up for a class, you will also receive access to their wide variety of on-demand exercises.
-
-[UTMississauga On-Demand Videos](https://www.youtube.com/channel/UCdjoguI1GpKe6sRq7-def1g/videos)
-
-[Down Dog Apps](https://www.downdogapp.com/education): Free for students and teachers until July 1, 2021 through this link.
-
-[My SSP Lift Program](https://liftsession.com/): Personalized workout plans free for U of T students through My SSP. 
-
 ## Mental Health Resources 
 
 [SSN's 30-Day Wellness Challenge Calendar](https://drive.google.com/file/d/1kxIFjAi9Sf8_iyw_VjVs_4H7ufUxrwId/view?usp=sharing)
@@ -48,3 +34,17 @@ SGS Embedded Counsellors: There are 2 counsellors within the University of Toron
 [U of T Health & Wellness Newsletter Sign-Up](https://studentlife.utoronto.ca/forms/health-wellness-newsletter-sign-up/)
 
 [Identify, Assist, Refer Training Module](https://iar.utoronto.ca/main/)
+
+## Fitness Resources
+
+SSN and MBP Virtual Yoga Series: Tuesdays at 7pm. Zoom ID 737 482 9458, passcode 342797
+
+[SSN Strava Running Group](https://www.strava.com/clubs/862900)
+
+[Hart House](https://harthouse.ca/fitness) and [Sports & Rec at U of T through KPE](https://kpe.utoronto.ca/sport-rec-u-t): Both Hart House & KPE offer virtual exercises classes to students free-of-charge. When you sign up for a class, you will also receive access to their wide variety of on-demand exercises.
+
+[UTMississauga On-Demand Videos](https://www.youtube.com/channel/UCdjoguI1GpKe6sRq7-def1g/videos)
+
+[Down Dog Apps](https://www.downdogapp.com/education): Free for students and teachers until July 1, 2021 through this link.
+
+[Lift Program App](https://liftsession.com/): Personalized workout plans free for U of T students through My SSP. 
