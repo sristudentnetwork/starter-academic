@@ -1,4 +1,14 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
 title: SRI Student Resources
 summary: Helpful links and organizations for students at SRI
 date: "2021-04-11T00:00:00Z"
