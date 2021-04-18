@@ -27,6 +27,8 @@ header:
 
 SGS Embedded Counsellors: There are 2 counsellors within the University of Toronto that graduate students can schedule appointments with free of charge. These counsellors are meant to help with acute issues. To book an appointment, contact Health & Wellness at U of T. 
 
+[GLSE Wellness Package](https://drive.google.com/file/d/1o0GZ4u_qfJfVI6v2LEphOvUQtKY2ezAY/view?usp=sharing): Comprehensive list of U of T and community resources, including descriptions for which situations each is most appropriate in.
+
 [Extensive List of U of T Resources and Community Hotlines](https://drive.google.com/file/d/13PXrKVvuDw2nM6URnlQls-yAOTMBugPS/view?usp=sharing): Compiled by the MBPGSA Mental Health & Wellness Committee.
 
 [U of T Mindfulness Events Calendar](https://clnx.utoronto.ca/home/mindfulness.htm): Variety of meditation and mental wellbeing events for students.
