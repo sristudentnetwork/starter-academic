@@ -9,6 +9,11 @@
   weight = 10
 
 [[main]]
+  name = "Events"
+  url = "#events"
+  weight = 30
+
+[[main]]
   name = "The Takeaway Archive"
   url = "#posts"
   weight = 30
@@ -18,10 +23,10 @@
   url = "#resources"
   weight = 20
 
-# [[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
 
 # [[main]]
 #   name = "Talks"
