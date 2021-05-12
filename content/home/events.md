@@ -21,10 +21,10 @@ For more information on any of the events listed, please reach us using the "Con
 
 ## Upcoming Events
 
-[SSN Coffee Hour](https://utoronto.zoom.us/j/81141524486).  
-Every last Friday of the month at 11am. 
-Password: ssncoffee. 
+[SSN Coffee Hour](https://utoronto.zoom.us/j/81141524486)  
+Every last Friday of the month at 11am   
+Password: ssncoffee 
 
 NBA Playoff Bracket Pool  
-  Running from May 22 to July 22. 
-  Register [here](https://forms.gle/HqsF1N7Ey5rhzCQP9)
+Running from May 22 to July 22  
+Register [here](https://forms.gle/HqsF1N7Ey5rhzCQP9)
