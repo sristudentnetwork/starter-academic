@@ -19,8 +19,8 @@ header:
 **SSN Coffee Hour:** Every last Friday of the month at 11am   
 Meeting ID 811 4152 4486, password ssncoffee 
 
-**NBA Playoff Bracket Pool:** Running from May 22 to July 22, 2021  
-Register [here!](https://forms.gle/HqsF1N7Ey5rhzCQP9)
+**NBA Playoff Bracket Pool:** Running from May 22 to end of playoffs  
+Register before May 22 [here!](https://forms.gle/HqsF1N7Ey5rhzCQP9)
 
 **SRI Research Conference:** July 20-21, 2021  
 See more info and register [here!](https://drive.google.com/file/d/1cWkKjv6NhMhwCUguNc7DOU1kLLHUfqjx/view?usp=sharing)
