@@ -39,7 +39,7 @@ SGS Embedded Counsellors: There are 2 counsellors within the University of Toron
 
 ## Fitness Resources
 
-SSN and MBP Virtual Yoga Series: Tuesdays at 7pm. Zoom ID 737 482 9458, passcode 342797
+SSN and MBP Virtual Yoga Series: Tuesdays at 7pm on Zoom  Meeting ID 737 482 9458, password 342797
 
 [SSN Strava Running Group](https://www.strava.com/clubs/862900)
 
