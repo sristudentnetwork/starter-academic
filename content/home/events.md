@@ -2,7 +2,7 @@
 # Order that this section appears on the page.
 weight: 20
 
-title: SSN Events
+title: Upcoming Events
 summary: Upcoming events SSN is running!
 date: "2021-04-11T00:00:00Z"
 
@@ -16,9 +16,6 @@ header:
   caption: ""
   image: ""
 ---
-
-## Upcoming Events
-
 **SSN Coffee Hour:** Every last Friday of the month at 11am   
 Meeting ID 811 4152 4486, password ssncoffee 
 
