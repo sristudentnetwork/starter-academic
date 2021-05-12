@@ -17,8 +17,6 @@ header:
   image: ""
 ---
 
-For more information on any of the events listed, please reach us using the "Contact" tab! 
-
 ## Upcoming Events
 
 SSN Coffee Hour: Every last Friday of the month at 11am   
@@ -32,3 +30,5 @@ See more info and register [here!](https://drive.google.com/file/d/1cWkKjv6NhMhw
 
 End of Year Social: August 2021  
 Come back soon for more info! 
+
+*For more information on any of the events listed, please reach us using the "Contact" form!*
