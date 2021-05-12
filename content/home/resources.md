@@ -25,7 +25,7 @@ header:
 
 [Sunnybrook Student Assistance Page](https://sunnybrook.ca/education/content/?page=education-student-assistance): Crisis and non-urgent resources.
 
-SGS Embedded Counsellors: There are 2 counsellors within the University of Toronto that graduate students can schedule appointments with free of charge. These counsellors are meant to help with acute issues. To book an appointment, contact Health & Wellness at U of T. 
+**SGS Embedded Counsellors**: There are 2 counsellors within the University of Toronto that graduate students can schedule appointments with free of charge. These counsellors are meant to help with acute issues. To book an appointment, contact Health & Wellness at U of T. 
 
 [GLSE Wellness Package](https://drive.google.com/file/d/1o0GZ4u_qfJfVI6v2LEphOvUQtKY2ezAY/view?usp=sharing): Comprehensive list of U of T and community resources, including descriptions for which situations each is most appropriate in.
 
@@ -39,7 +39,7 @@ SGS Embedded Counsellors: There are 2 counsellors within the University of Toron
 
 ## Fitness Resources
 
-SSN and MBP Virtual Yoga Series: Tuesdays at 7pm  
+**SSN and MBP Virtual Yoga Series**: Tuesdays at 7pm  
 Meeting ID 737 482 9458, password 342797
 
 [SSN Strava Running Group](https://www.strava.com/clubs/862900)
