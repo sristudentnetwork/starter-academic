@@ -19,16 +19,16 @@ header:
 
 ## Upcoming Events
 
-SSN Coffee Hour: Every last Friday of the month at 11am   
+**SSN Coffee Hour:** Every last Friday of the month at 11am   
 Meeting ID 811 4152 4486, password ssncoffee 
 
-NBA Playoff Bracket Pool: Running from May 22 to July 22, 2021  
+**NBA Playoff Bracket Pool:** Running from May 22 to July 22, 2021  
 Register [here!](https://forms.gle/HqsF1N7Ey5rhzCQP9)
 
-SRI Research Conference: July 20-21, 2021  
+**SRI Research Conference:** July 20-21, 2021  
 See more info and register [here!](https://drive.google.com/file/d/1cWkKjv6NhMhwCUguNc7DOU1kLLHUfqjx/view?usp=sharing)
 
-End of Year Social: August 2021  
+**End of Year Social:** August 2021  
 Come back soon for more info! 
 
 *For more information on any of the events listed, please reach us using the "Contact" form!*
