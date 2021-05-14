@@ -22,8 +22,8 @@ Meeting ID 811 4152 4486, password ssncoffee
 **NBA Playoff Bracket Pool:** Running from May 22 to end of playoffs  
 Register before May 22 [here!](https://forms.gle/HqsF1N7Ey5rhzCQP9)
 
-**SRI Research Conference:** July 20-21, 2021  
-See more info and register [here!](https://drive.google.com/file/d/1cWkKjv6NhMhwCUguNc7DOU1kLLHUfqjx/view?usp=sharing)
+**Sunnybrook Student Research Conference:** July 20-21, 2021  
+Contact us for more info on abstract submission and registration!
 
 **End of Year Social:** August 2021  
 Come back soon for more info! 
