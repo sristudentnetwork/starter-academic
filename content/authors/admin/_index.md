@@ -22,6 +22,9 @@ interests:
 - Coffee
 - More coffee
 
+membership:
+- Be a member!
+
 # Education to show in About widget
 education:
   courses:
