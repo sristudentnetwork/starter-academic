@@ -19,13 +19,10 @@ header:
 **SSN Coffee Hour:** Every last Friday of the month at 11am   
 Meeting ID 811 4152 4486, password ssncoffee 
 
-**NBA Playoff Bracket Pool:** Running from May 22 to end of playoffs  
-Register before May 22 [here!](https://forms.gle/HqsF1N7Ey5rhzCQP9)
-
 **Sunnybrook Student Research Conference:** July 20-21, 2021  
 Contact us for more info on abstract submission and registration!
 
 **End of Year Social:** August 2021  
 Come back soon for more info! 
 
-*For more information on any of the events listed, please reach us using the "Contact" form!*
+*For more information on any of the events listed, or to have your event featured, please reach us using the "Contact" form!*
