@@ -39,15 +39,12 @@ header:
 
 ## Fitness Resources
 
-**SSN and MBP Virtual Yoga Series**: Tuesdays at 7pm  
-Meeting ID 737 482 9458, password 342797
-
 [SSN Strava Running Group](https://www.strava.com/clubs/862900)
 
 [Hart House](https://harthouse.ca/fitness) and [Sports & Rec at U of T through KPE](https://kpe.utoronto.ca/sport-rec-u-t): Both Hart House & KPE offer virtual exercises classes to students free-of-charge. When you sign up for a class, you will also receive access to their wide variety of on-demand exercises.
 
 [UTMississauga On-Demand Videos](https://www.youtube.com/channel/UCdjoguI1GpKe6sRq7-def1g/videos)
 
-[Down Dog Apps](https://www.downdogapp.com/education): Free for students and teachers until July 1, 2021 through this link.
+[Down Dog Apps](https://www.downdogapp.com/education): Free for students and teachers until January 1, 2022 through this link.
 
 [Lift Program App](https://liftsession.com/): Personalized workout plans free for U of T students through My SSP. 
