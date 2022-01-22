@@ -19,7 +19,7 @@ header:
 **SSN Coffee Hour:** Every last Friday of the month at 11am   
 Meeting ID 811 4152 4486, password ssncoffee 
 
-**Sunnybrook Student Research Conference:** July 20-21, 2021  
+**Sunnybrook Student Research Conference:** July 20-21, 2022  
 Contact us for more info on abstract submission and registration!
 
 **End of Year Social:** August 2021  
