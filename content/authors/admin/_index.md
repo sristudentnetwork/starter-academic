@@ -65,14 +65,3 @@ email: "sri.studentnetwork@gmail.com"
 highlight_name: false
 ---
 The SRI Student Network (SSN) is a graduate student-run group whose mission is to encourage and foster relationships among the graduate student population at Sunnybrook. Our team recognizes the challenges of connecting with SRI graduate students from different platforms and departments and hopes to close that gap. Overall, we aim to provide accessible professional development programs, on-site fitness and mental health resources, and social and research networking opportunities. We can't wait to meet you!
-
-- *President: Moses Cook*
-- *Vice President: Nadia Bragagnolo*
-- *Communications Officer: Jaykumar Patel*
-- *Financial Officer: Rosa Summer* 
-- *Chief Returning Officer: Justin Pogmore*
-- *Events Coordinator: Ann Fernando*
-- *The Takeaway Editors: Ajay David & Nicole Cappelletto*
-- *Webmaster: Calder Sheagren*
-- *Graduate Peer Support Network Liaisons: Claire Mazzia & Yuen Yan Wong*
-- *Members at Large: Ella Bing Song, Di Yu, Daniel Djayakarsana*
