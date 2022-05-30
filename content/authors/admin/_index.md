@@ -65,3 +65,6 @@ email: "sri.studentnetwork@gmail.com"
 highlight_name: false
 ---
 The SRI Student Network (SSN) is a graduate student-run group whose mission is to encourage and foster relationships among the graduate student population at Sunnybrook. Our team recognizes the challenges of connecting with SRI graduate students from different platforms and departments and hopes to close that gap. Overall, we aim to provide accessible professional development programs, on-site fitness and mental health resources, and social and research networking opportunities. We can't wait to meet you!
+
+Anyone can get involved with the SSN! General members may attend our biweekly meetings and events. Committee members can assist with planning and hosting the various social and professional development events, such as our annual SRI Student Research Conference.
+For up-to-date event listings and to connect with us further, please visit our [Sunnynet](https://vpn2.sunnybrook.ca:11019/default.aspx?cid=133580) page. In addition, feel free to join us on [Temerty Medicine Connect](https://uoftmedicineconnect.ca/).
